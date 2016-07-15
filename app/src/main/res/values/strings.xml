@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">LGAInfoListDemo</string>
+  <string name="title_activity_main">MainActivity</string>
+
+  <!--Item Layout Strings-->
+  <string name="local_government_name_text">Ikorodu</string>
+  <string name="local_government_state_text">Lagos</string>
+  <string name="local_government_state_code_text">LA</string>
+  <string name="local_government_latitude_text">Lat: 12.90</string>
+  <string name="local_government_longitude_text">Long: 7.60</string>
+
+  <string name="latitude_text">Lat: %1$s</string>
+  <string name="longitude_text">Long: %1$s</string>
+</resources>
