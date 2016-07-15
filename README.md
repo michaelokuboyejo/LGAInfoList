@@ -14,11 +14,8 @@ LocalGovernmentAreaCoordinates localGovernmentAreaInfoList = LocalGovernmentArea
 
 ### Screenshots
 
-![](https://github.com/michaelokuboyejo/LGAInfoList
-/blob/master/art/art_1.png?raw=true)
+![](https://github.com/michaelokuboyejo/LGAInfoList/blob/master/art/art_1.png?raw=true)
 
-![](https://github.com/michaelokuboyejo/LGAInfoList
-/blob/master/art/art_2.png?raw=true)
+![](https://github.com/michaelokuboyejo/LGAInfoList/blob/master/art/art_2.png?raw=true)
 
-![](https://github.com/michaelokuboyejo/LGAInfoList
-/blob/master/art/art_3.png?raw=true)
+![](https://github.com/michaelokuboyejo/LGAInfoList/blob/master/art/art_3.png?raw=true)
